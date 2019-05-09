@@ -11,7 +11,7 @@ require 'session_check.php';
     <title>Document</title>
 </head>
 <body>
-
+<!--Welcome let's try github baby-->
 <h1>Bienvenue <?= $_SESSION['login'] ?></h1>
 <h2>A propos de vous</h2>
 
